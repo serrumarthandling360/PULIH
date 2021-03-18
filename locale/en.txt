@@ -10,6 +10,9 @@ tour.name = PULIH
 
 ## Skin
 
+### Dropdown
+DropDown_5E2AE833_43BC_0B08_415D_22D2BF1DA168.prompt = MENU
+
 ### Label
 Label_68799BEE_4942_9917_41BA_11528BA61A66.text = Labtanya
 Label_6AA1B8C8_4945_871B_41B1_BBDD4F894196.text = Tisna Sanjaya
